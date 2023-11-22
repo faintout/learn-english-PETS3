@@ -1006,3 +1006,179 @@
 251. **banana** [n.] 香蕉；芭蕉属植物
    - Bananas are a good source of potassium and vitamin C. (香蕉是钾和维生素C的良好来源。)
    - He added a banana to his cereal for breakfast. (他在早餐的麦片中加了一根香蕉。)
+
+252. **band** [n.] 乐队，带，波段，箍，队；[v.] 联合，结合
+   - The band played a beautiful melody that captivated the audience. (乐队演奏了一首美妙的旋律，吸引了观众。)
+   - Scientists band birds to track their migratory patterns. (科学家给鸟类加上标志带以追踪它们的迁徙模式。)
+
+253. **bank** [n.] 银行，库，岩，堤；[vt.] 堆积；[vi.] 开户，把...存入银行
+   - She deposited her paycheck into her bank account. (她将工资存入了她的银行账户。)
+   - The river bank was overflowing after the heavy rain. (大雨之后，河岸泛滥了。)
+
+254. **bar** [n.] 酒吧间，条，杆，栅，横木；[vt.] 禁止，阻挠
+   - He went to the bar to get a drink after work. (下班后他去酒吧喝了一杯。)
+   - The door was barred, preventing anyone from entering. (门被闩上了，防止任何人进入。)
+
+255. **barber** [n.] 理发师
+   - The barber gave him a stylish haircut. (理发师给他剪了一个时髦的发型。)
+   - I have an appointment with the barber on Saturday. (我预约了周六去理发。)
+
+256. **bare** [adj.] 赤裸的，显露的，极少的，仅仅的；[vt.] 使赤裸，露出
+   - The walls of the room were bare, with no decorations. (房间的墙壁很空，没有任何装饰。)
+   - He bared his chest to show the scar. (他赤裸上身展示那道疤痕。)
+
+257. **bargain** [n.] 交易，买卖，物美价廉的东西；[vi.] 议价，成交；[vt.] 议价交易
+   - They struck a bargain after lengthy negotiations. (经过长时间的谈判后，他们达成了一个交易。)
+   - This coat was a real bargain at such a low price. (这件外套以这么低的价格买到真是个便宜货。)
+
+258. **barn** [n.] 谷仓，牲口棚
+   - The farmer stored the hay in the barn for the winter. (农民把干草储存在谷仓里过冬。)
+   - The old barn was converted into a house. (那个旧谷仓被改造成了一所房子。)
+
+259. **barrel** [n.] 桶，圆筒，枪管，炮管，笔管，一桶的量，大量，汽油桶；[vi.] 快速移动；[vt.] 把...装桶
+   - The wine was aged in oak barrels for several years. (这酒在橡木桶中陈年了好几年。)
+   - The car barrelled down the road at an alarming speed. (汽车以惊人的速度沿着道路疾驰。)
+
+260. **barrier** [n.] 栅栏，屏障，障碍，障碍物，界线
+   - The Great Barrier Reef is one of the seven wonders of the natural world. (大堡礁是世界七大自然奇观之一。)
+   - Language is often a barrier to effective communication. (语言常常是有效沟通的障碍。)
+
+261. **base** [n.] 基础，底层，基地；[vt.] 以...作基础；[adj.] 卑鄙的，不道德的
+   - The company has its base in New York. (这家公司在纽约有基地。)
+   - His actions were seen as morally base by the community. (他的行为被社区视为道德败坏。)
+
+262. **basic** [adj.] 基本的，基础的，含硅量少的；[n.] 基本，实质性的东西，基础训练，[计] BASIC语言
+   - He has a good grasp of the basic principles of chemistry. (他很好地掌握了化学的基本原理。)
+   - Learning to code in BASIC was popular in the early days of personal computers. (在个人电脑早期，学习BASIC编程语言很流行。)
+
+263. **basin** [n.] 盆，洗脸盆，盆地，流域，水池
+   - The Amazon Basin is home to the largest tropical rainforest in the world. (亚马逊盆地拥有世界上最大的热带雨林。)
+   - She filled the basin with warm water to wash her face. (她用温水装满盆子洗脸。)
+
+264. **basis** [n.] 基础，根据，主要成分
+   - Mutual respect is the basis of a good friendship. (相互尊重是良好友谊的基础。)
+   - The theory is lacking a scientific basis. (这个理论缺乏科学依据。)
+
+265. **basket** [n.] 篮，篓，筐，<篮>篮球筐，得分
+   - She carried her groceries in a wicker basket. (她用一只柳条篮子携带她的杂货。)
+   - The player scored by throwing the ball into the basket. (球员通过将球投入篮筐得分。)
+
+266. **basketball** [n.] 篮球，篮球运动
+   - Basketball is a popular sport in many countries around the world. (篮球是世界上许多国家的热门运动。)
+   - He plays basketball every weekend with his friends. (他每个周末都和朋友们打篮球。)
+
+267. **bat** [n.] 球拍，短棍，棒，击打，蝙蝠；[v.] 用棒击打；[计算机] DOS文件名：批文件
+   - The baseball player swung his bat and hit a home run. (棒球运动员挥动球棍，打出了全垒打。)
+   - At dusk, bats come out to feed on insects. (黄昏时分，蝙蝠出来捕食昆虫。)
+
+268. **bath** [n.] 浴，洗澡，洗澡水，浴缸，浴室，财政亏损；[v.] 洗澡；[n.] (Bath)巴斯(英国城市)
+   - She relaxed in a hot bath after a long day at work. (工作了一整天后，她在热水浴中放松。)
+   - Bath is known for its Roman-built baths. (巴斯以其罗马时期建造的浴场而闻名。)
+
+269. **bathe** [vt.] 给...洗澡，弄湿，沐浴，用水洗，沉浸
+   - The mother bathed her baby gently in the tub. (母亲在浴盆中轻柔地给婴儿洗澡。)
+   - The sunlight bathed the room in a warm glow. (阳光洒满房间，使之充满了温暖的光芒。)
+
+270. **bathroom** [n.] 浴室，盥洗室
+   - They renovated the bathroom with new tiles and fixtures. (他们用新的瓷砖和固定装置翻新了浴室。)
+   - There is a line for the women's bathroom during the intermission. (中场休息时，女厕所外排起了长队。)
+
+271. **battle** [n.] 战役，斗争，争论；[vi.] 与...作战，与...斗争
+   - The Battle of Waterloo was a decisive conflict in European history. (滑铁卢战役是欧洲历史上的一个决定性冲突。)
+   - Environmentalists are battling against deforestation. (环保主义者正在与森林砍伐作斗争。)
+
+272. **bay** [n.] 湾，海湾
+   - The ship sailed into the bay to seek shelter from the storm. (船驶入海湾以躲避暴风雨。)
+   - San Francisco Bay is known for its iconic Golden Gate Bridge. (旧金山湾以其标志性的金门大桥而闻名。)
+
+273. **be** [aux.v. & vi.] 是，在，做，有
+   - I will be there at 8 o'clock. (我会在8点钟到那里。)
+   - She is studying to be a lawyer. (她正在学习成为一名律师。)
+
+274. **beach** [n.] 海滩，湖滩，河滩；[vt.] 拖(船)上岸
+   - We spent the day relaxing on the beach. (我们在海滩上度过了一个放松的日子。)
+   - The fishermen beached their boat and went to the village. (渔民们把船拖上岸，然后去了村子。)
+
+275. **bean** [n.] 豆，蚕豆
+   - He added some green beans to the salad for extra crunch. (他在沙拉中加入了一些青豆以增加脆感。)
+   - Coffee beans are roasted before they are ground into coffee powder. (咖啡豆在磨成咖啡粉之前要先烘焙。)
+
+276. **bear** [n.] 熊，粗鲁的人；[vt.] 忍受，负荷，结果实，生子女
+   - The hiker saw a bear in the woods and quickly retreated. (徒步旅行者在树林中看到了一只熊，迅速撤退。)
+   - She couldn't bear the thought of losing her pet. (她无法忍受失去宠物的念头。)
+
+277. **beard** [n.] 胡须，络腮胡子；[vt.] 抓住胡须，公开反对
+   - He decided to grow a beard during the winter months. (他决定在冬季留胡须。)
+   - The journalist bearded the politician with tough questions. (记者用尖锐的问题直面政治家。)
+
+278. **beast** [n.] 兽，野兽，牲畜，凶残的人，令人厌憎的人
+   - Tales of a mysterious beast in the forest have been circulating for years. (关于森林中神秘野兽的传说已流传多年。)
+   - He was considered a beast because of his cruel behavior. (由于他的残忍行为，他被视为一个野兽。)
+
+279. **beat** [n.] 打，敲打声，拍子，独家报道，一会儿；[vt. & vi.] 打，敲，打败
+   - The beat of the drum set the pace for the marchers. (鼓点为行进者定下了步伐。)
+   - The champion boxer beat his opponent in the third round. (冠军拳击手在第三轮击败了对手。)
+
+280. **beautiful** [adj.] 美的，美丽的，漂亮的
+   - She wore a beautiful dress to the party. (她穿了一件漂亮的裙子去参加派对。)
+   - The sunset was absolutely beautiful. (日落非常美丽。)
+
+281. **beauty** [n.] 美，美丽，美人，美的东西
+   - The beauty of the landscape took his breath away. (那风景的美丽让他屏息。)
+   - She won the beauty pageant and was crowned Miss Universe. (她赢得了选美比赛，被加冕为宇宙小姐。)
+
+282. **because** [conj.] 由于，因为
+   - He was late because his car broke down. (他迟到了，因为他的车坏了。)
+   - She smiled because she was happy. (她微笑是因为她很高兴。)
+
+283. **become** [vt. & vi.] 变得，存在，变成，成为，经历改变或发展
+   - It has become cold recently. (最近变冷了。)
+   - She became a teacher after graduating from college. (她大学毕业后成为了一名教师。)
+
+284. **bed** [n.] 床，床位，圃，河床，底层，基座；[vt.] 铺床，去睡觉，安置，发生性关系；[vi.] 铺床，去睡觉，铺层，躺平
+   - He went to bed early because he had to wake up at dawn. (他早早上床睡觉，因为他要在黎明时分醒来。)
+   - The seeds were bedded in rich soil. (种子被播种在肥沃的土壤中。)
+
+285. **bee** [n.] 蜂，密蜂，忙碌的人
+   - The bee buzzed from flower to flower collecting nectar. (蜜蜂嗡嗡地从一朵花飞到另一朵花收集花蜜。)
+   - She's always as busy as a bee, never stopping to rest. (她总是忙得像只蜜蜂，从不停下来休息。)
+
+286. **beef** [n.] 牛肉，菜牛；[v.] 抱怨，诉苦
+   - He ordered a beef steak at the restaurant. (他在餐厅点了牛排。)
+   - The workers beefed about the new regulations. (工人们对新规定抱怨连连。)
+
+287. **beer** [n.] 啤酒
+   - He likes to relax with a cold beer after work. (他喜欢下班后来一杯冰啤酒放松一下。)
+   - The brewery is known for its craft beers. (这家酿酒厂以其手工啤酒而闻名。)
+
+288. **before** [adj. & adv.] 以前，在...之前；[prep. & conj.] 在...以前，向...
+   - I have seen that movie before. (我以前看过那部电影。)
+   - Please finish the report before Friday. (请在周五之前完成报告。)
+
+289. **beg** [vt.] 乞讨，恳求；[vi.] 行乞，乞求；[abbr.] (begin)的缩写开始
+   - The man sat on the sidewalk and begged for change. (那个男人坐在人行道上乞讨零钱。)
+   - She begged him to stay, but he had made up his mind to leave. (她恳求他留下，但他已决定离开。)
+
+290. **beggar** [n.] 乞丐，穷人；[vt.] 使贫穷，使不足，使不能
+   - The beggar asked for some food or money. (乞丐请求给些食物或钱。)
+   - The cost of the project beggared description. (这个项目的成本难以形容。)
+
+291. **begin** [vi.] 开始，起初是；[vt.] 开始，意欲作出某事
+   - The ceremony will begin at noon. (仪式将于中午开始。)
+   - He began his speech with a funny anecdote. (他用一个有趣的轶事开始了他的演讲。)
+
+292. **beginning** [n.] 开始，开端，起源；[adj.] 刚开始的；[v.] begin的现在分词
+   - The beginning of the book was very intriguing. (这本书的开头非常吸引人。)
+   - She's at the beginning of her career in law. (她正处于法律职业生涯的起始阶段。)
+
+293. **behalf** [n.] 利益，维护，支持
+   - On behalf of the entire company, I would like to thank you. (我代表整个公司向你表示感谢。)
+   - He spoke on behalf of the team when he accepted the award. (他在接受奖项时代表团队发言。)
+
+294. **behave** [vi.] 表现，举止，行为，举止端正，运转
+   - The children behaved well at the dinner party. (孩子们在晚宴上表现得很好。)
+   - The new software is behaving as expected. (新软件的运行情况符合预期。)
+
+295. **behavior** [n.] 行为，举止，态度
+   - His behavior towards his colleagues was always professional. (他对待同事的行为总是很专业。)
+   - The study of animal behavior is a fascinating field. (动物行为学是一个迷人的领域。)
