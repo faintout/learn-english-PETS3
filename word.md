@@ -1182,3 +1182,167 @@
 295. **behavior** [n.] 行为，举止，态度
    - His behavior towards his colleagues was always professional. (他对待同事的行为总是很专业。)
    - The study of animal behavior is a fascinating field. (动物行为学是一个迷人的领域。)
+
+296. **behind** [adv.] 在后面，落后，迟地；[adj.] 后面的，落后的，迟的，慢的；[prep.] 在...后面，落后于，掩盖，基于，支持；[n.] 屁股
+   - She looked behind and saw a cat following her. (她回头一看，发现有只猫跟着她。)
+   - The team is behind schedule due to unexpected challenges. (由于意外的挑战，团队的进度落后了。)
+
+297. **belief** [n.] 信任，相信，信念，信仰
+   - His belief in the goodness of people was unshakable. (他对人性本善的信念坚不可摧。)
+   - Different cultures have different religious beliefs. (不同的文化有不同的宗教信仰。)
+
+298. **believe** [vt.] 相信，认为
+   - I believe that we will win the game. (我相信我们会赢得比赛。)
+   - Do you believe in life after death? (你相信死后有生命吗？)
+
+299. **bell** [n.] 钟，铃，门铃，钟声，花冠，吼叫声；[vt.] 敲钟，使象钟状地张开；[vi.] 使呈钟状，张开
+   - The bell rings at the start of each class. (每节课开始时，铃声响起。)
+   - The cat's collar has a small bell attached to it. (猫的项圈上挂着一个小铃铛。)
+
+300. **belong** [vi.] 属于，附属，适合于
+   - This book belongs to the library, not to me. (这本书属于图书馆，不是我的。)
+   - He feels like he doesn't belong in such a prestigious university. (他觉得自己不适合这样一所声望很高的大学。)
+
+301. **below** [adv.] 在下面，向下，下级；[prep.] 在...下面(以下)，(级别、重要性)低于；[adj.] 在...下面；[n.] 下面的东西
+   - The temperature dropped to five degrees below zero. (温度下降到零下五度。)
+   - The submarine can operate at depths of 500 meters below the surface. (潜艇可以在水面下500米的深度操作。)
+
+302. **belt** [n.] 带(状物)，腰带，皮带，区；[vi.] 飞奔，大声唱；[vt.] 系上腰带，环绕击打，大声唱
+   - He tightened his belt as it was too loose. (他把腰带勒紧，因为太松了。)
+   - The asteroid belt contains many rocks orbiting the sun. (小行星带包含了许多绕太阳运行的岩石。)
+
+303. **bench** [n.] 长凳，条凳，工作台，梯田；[vt.] 坐在长凳上，放置长凳，在展览会上展览；[vi.] 形成梯田
+   - The old man sat on the park bench feeding the pigeons. (老人坐在公园的长凳上喂鸽子。)
+   - The judge entered the courtroom and took his place on the bench. (法官进入法庭，就座在审判席上。)
+
+304. **bend** [vt.] 使弯曲；[vi.] 弯曲，屈服；[n.] 弯曲(物)，弯道
+   - The tree branches bend under the weight of the snow. (树枝在雪的重量下弯曲。)
+   - There is a sharp bend in the road ahead. (前方的道路有一个急转弯。)
+
+305. **beneath** [adv.] 在下方；[prep.] 在...下方，在...之下
+   - The valley was hidden beneath a thick layer of fog. (山谷被一层厚厚的雾所隐藏。)
+   - She felt that such a menial task was beneath her. (她觉得这样的卑微工作不适合她。)
+
+306. **beneficial** [adj.] 有利的，有益的
+   - Regular exercise is beneficial to your health. (定期锻炼对你的健康有益。)
+   - The new policy will be beneficial for all employees. (新政策将对所有员工有利。)
+
+307. **benefit** [n.] 利益，恩惠，津贴，义卖，义演；[vt.] 有益于；[vi.] 得益
+   - The new health program provides benefits to all its members. (新的健康计划为所有成员提供利益。)
+   - Eating vegetables benefits your overall well-being. (吃蔬菜有益于你的整体健康。)
+
+308. **beside** [prep.] 在...旁边，与…相比
+   - She sat beside her friend to comfort her. (她坐在朋友旁边安慰她。)
+   - Beside his wit, his kindness is what I admire most. (除了他的机智，我最欣赏他的善良。)
+
+309. **besides** [adv.] 而且，也，此外；[prep.] 除...之外；[adj.] 别的
+   - I don't want to go out tonight; besides, I have too much work to do. (我今晚不想出去；此外，我还有很多工作要做。)
+   - Besides the main dish, we also have a variety of appetizers. (除了主菜，我们还有各种开胃菜。)
+
+310. **best** [adj.] 最好的，最大的；[adv.] 最，最好地；[n.] 最好的人(或物)；[vt.] 胜于
+   - She always tries to do her best at everything. (她总是尽力做好每件事。)
+   - In the end, his performance bested all the others. (最终，他的表现胜过了所有其他人。)
+
+311. **bet** [n.] 打赌，赌注，最大的可能；[vi.] 下注；[vt.] 打赌
+   - He made a bet with his friend on the outcome of the game. (他和朋友打赌游戏的结果。)
+   - I wouldn't bet on the weather being good for the picnic tomorrow. (我不敢打赌明天野餐的天气会好。)
+
+312. **betray** [vt.] 误导，出卖，背叛，辜负，泄漏；[vi.] 证明...错误
+   - He felt betrayed when he found out his friend had lied to him. (当他发现朋友对他撒谎时，他感到被背叛了。)
+   - Her nervous glances betray her true feelings. (她紧张的眼神暴露了她的真实感受。)
+
+313. **better** [adj.] 较好的，更好的；[adv.] 更好地；[v.] 使...更好，超越；[n.] 更好的事物
+   - This is a much better solution than the one we tried before. (这是一个比我们之前尝试的解决方案好得多的方案。)
+   - He is constantly looking for ways to better himself. (他不断寻找提升自己的方法。)
+
+314. **between** [adv.] 在中间；[prep.] 在...中间
+   - The small town lies between two mountains. (这个小镇位于两座山之间。)
+   - Negotiations between the two companies are ongoing. (两家公司之间的谈判正在进行中。)
+
+315. **beyond** [adv.] 在更远处，另外；[n.] 远处，来世；[prep.] 在...的那边，超出，越过，另外
+   - The ball flew beyond the fence and into the neighbor's yard. (球飞过了篱笆，落入了邻居的院子里。)
+   - His new book explores ideas that are beyond the ordinary. (他的新书探讨了超越常人的想法。)
+
+316. **Bible** [n.] 基督教《圣经》，有权威的书
+   - The Bible is considered a sacred text in Christianity. (《圣经》被视为基督教中的圣经。)
+   - For many people, the Bible is a guide to moral living. (对许多人来说，《圣经》是道德生活的指南。)
+
+317. **bicycle** [n.] 自行车，脚踏车；[v.] 骑自行车
+   - He rides his bicycle to work every day. (他每天骑自行车上班。)
+   - Bicycling is a great way to stay fit and enjoy the outdoors. (骑自行车是保持健康和享受户外活动的好方法。)
+
+318. **big** [adj.] 大的，巨大的，重要的；[adv.] 以郑重的方式，大数量；[n.] 杰出的组织和个人
+   - The big elephant at the zoo attracted a crowd of spectators. (动物园里的大象吸引了一群观众。)
+   - He has big plans for the future of the company. (他对公司的未来有宏伟的计划。)
+
+319. **bike** [n.] 自行车；[vi.] 骑自行车
+   - She bought a new bike to ride to school. (她买了一辆新自行车骑去学校。)
+   - We plan to bike through the countryside this weekend. (我们计划这个周末骑自行车穿过乡村。)
+
+320. **bill** [n.] 账单，钞票，招贴，票据，清单，议案，法案，广告；鸟嘴，喙；[vt.] 开账单，用海报宣传，把...列成表
+   - Please send me the bill for your services. (请把你们服务的账单寄给我。)
+   - The duck's bill is adapted for foraging in the mud. (鸭子的嘴适合在泥土中觅食。)
+
+321. **billion** [num.] (英)万亿，(美)十亿；[n.] 大量；[adj.] 大量的
+   - The company is worth several billion dollars. (这家公司价值数十亿美元。)
+   - A billion stars twinkled in the night sky. (夜空中闪烁着数十亿颗星星。)
+
+322. **bind** [vt.] 捆绑，包扎，装订，约束；[n.] 窘境
+   - You need to bind the wound to stop the bleeding. (你需要包扎伤口以止血。)
+   - The contract will bind you to complete the work within a year. (合同将约束你在一年内完成工作。)
+
+323. **biology** [n.] 生物学，生态学
+   - She is studying biology to become a doctor. (她正在学习生物学，以成为一名医生。)
+   - Biology was always my favorite subject in school. (生物学一直是我在学校最喜欢的科目。)
+
+324. **bird** [n.] 鸟，家禽，陶土飞靶，伙伴；[vi.] 观察或辨认鸟
+   - The early bird catches the worm. (早起的鸟儿有虫吃。)
+   - Bird watching is a popular hobby among nature enthusiasts. (观鸟是自然爱好者中流行的爱好。)
+
+325. **birth** [n.] 分娩，出生，诞生，出身，血统，出现，起源
+   - The birth of her first child was a moment of great joy. (她第一个孩子的出生是一个非常快乐的时刻。)
+   - The invention of the internet marked the birth of a new era. (互联网的发明标志着一个新时代的诞生。)
+
+326. **birthday** [n.] 生日，诞生的日期
+   - We're throwing a surprise party for her birthday. (我们要为她的生日举办一个惊喜派对。)
+   - How do you usually celebrate your birthday? (你通常怎么庆祝你的生日？)
+
+327. **biscuit** [n.] (英)饼干，(美)软饼，姜黄褐色
+   - Would you like a biscuit with your tea? (你的茶里要加块饼干吗？)
+   - In America, biscuits are often served with gravy. (在美国，饼干常常与肉汁一起食用。)
+
+328. **bit** [n.] 一点，少量，一些，小片，钻头，马嚼子，辅币，位，比特(二进位制信息单位)；[vt.] 控制
+   - I'm a bit tired, but I can still continue. (我有点累，但我还能继续。)
+   - The drill bit needs to be changed to a larger size. (钻头需要换成更大的尺寸。)
+
+329. **bite** [n.] 咬，一口，少量食物，咬伤的伤口；[vt.] 咬，叮，螫，剌穿；[vi.] 咬，(饵)使剧痛，紧抓
+   - Be careful, that dog might bite. (小心，那只狗可能会咬人。)
+   - The fish aren't biting today; we haven't caught anything. (今天鱼不上钩；我们什么也没抓到。)
+
+330. **bitter** [adj.] 苦的，痛苦的，剧烈的，严寒的；[n.] 苦味，苦涩，苦的东西；[vt.] 使...变苦；[adv.] 激烈地，极其
+   - The medicine has a bitter taste. (这药味道苦。)
+   - He felt a bitter disappointment when he didn't get the job. (他没得到那份工作时感到非常失望。)
+
+331. **bitterly** [adv.] 苦苦地，悲痛地，怨恨地，残酷地
+   - She cried bitterly when she heard the bad news. (她听到坏消息时痛哭流涕。)
+   - He bitterly regretted his mistakes. (他对自己的错误深感痛苦。)
+
+332. **black** [adj.] 黑的，暗的，穿黑衣服的，脏的，邪恶的，阴沉的，机密的；[n.] 黑色，黑色东西，黑人，(棋类)黑子；[v.] (使)变黑，抹黑
+   - She was wearing a beautiful black dress. (她穿着一件漂亮的黑色连衣裙。)
+   - The power outage left the entire city in black. (停电使整个城市陷入黑暗。)
+
+333. **blackboard** [n.] 黑板
+   - The teacher wrote the lesson on the blackboard. (老师在黑板上写下了课程。)
+   - He erased the blackboard after class. (下课后他擦掉了黑板。)
+
+334. **blame** [n.] 过失，责备；[vt.] 贤备，把...归咎于
+   - He accepted the blame for the project's failure. (他承担了项目失败的责任。)
+   - Don't blame me for your mistakes. (不要因为你的错误责怪我。)
+
+335. **blank** [adj.] 空白的，茫然的，全部的，面无表情的，未完工的；[n.] 空白，(处)空隙，空虚，(有弹药而无弹头的)空弹；[vi.] 消失，走神；[vt.] 使模糊不清，删除，封闭，(比赛中连续得分)使对手得零分
+   - Please fill in the blank spaces on the application form. (请在申请表上填写空白处。)
+   - His mind went blank when he tried to remember the answers during the test. (他在考试时试图回忆答案时，脑子一片空白。)
+
+336. **blanket** [n.] 毛毯，羊毛毯，覆盖物，排字版；[vt.] 用毯子裹，扑灭，挡风，覆盖，使包含；[adj.] 包含所有的，适用于所有情形的
+   - She wrapped the baby in a warm blanket. (她用一条温暖的毯子把婴儿包裹起来。)
+   - Snow blanketed the town overnight, covering everything in white. (一夜之间，雪覆盖了整个小镇，一切都变成了白色。)
