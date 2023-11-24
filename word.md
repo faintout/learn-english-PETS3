@@ -1346,3 +1346,179 @@
 336. **blanket** [n.] 毛毯，羊毛毯，覆盖物，排字版；[vt.] 用毯子裹，扑灭，挡风，覆盖，使包含；[adj.] 包含所有的，适用于所有情形的
    - She wrapped the baby in a warm blanket. (她用一条温暖的毯子把婴儿包裹起来。)
    - Snow blanketed the town overnight, covering everything in white. (一夜之间，雪覆盖了整个小镇，一切都变成了白色。)
+
+337. **blind** [adj.] 瞎的，盲目的，未察觉的；[n.] 百叶窗，幌子；[vt.] 使失明，隐藏；[adv.] 盲目地
+   - He walked past me as if he were blind to my presence. (他走过我身边，好像没看见我一样。)
+   - Please close the blinds, the sun is shining directly into my eyes. (请关上百叶窗，阳光直射进我的眼睛。)
+
+338. **block** [n.] 街区，木块，石块，阻塞物，障碍物；[vt.] 堵塞，拦阻
+   - The road was blocked by a fallen tree. (道路被一棵倒下的树挡住了。)
+   - She lives two blocks away from the school. (她住在离学校两个街区的地方。)
+
+339. **blood** [n.] 血，血液，血统，仇恨；[vt.] 流血
+   - Blood is thicker than water, which means family relationships are stronger than others. (血浓于水，意味着家庭关系比其他关系更紧密。)
+   - The nurse drew blood for the test. (护士为了测试抽了血。)
+
+340. **bloom** [n.] 花，开花，开花期，钢块，兴旺；[vt.] 使...开花；[vi.] 开花，变得健康
+   - The garden was in full bloom with colors everywhere. (花园里花开满园，到处都是色彩。)
+   - Her cheeks are in bloom with a healthy glow. (她的脸颊因健康而红润。)
+
+341. **blow** [vi.] 吹，吹动，吹响，打击，殴打；[v.] 吹，风吹，擤（鼻子）；【口】浪费（机会）
+   - The wind blows strongly on the coast. (海岸上风吹得很猛。)
+   - He blew his chance to win the game by making a simple mistake. (他因为一个简单的错误而浪费了赢得比赛的机会。)
+
+342. **blue** [adj.] 蓝色的，沮丧的，忧郁的；[n.] 蓝色；[vt.] 使...变蓝；[vi.] 变蓝
+   - The sky is clear and blue today. (今天天空晴朗且湛蓝。)
+   - She felt blue after hearing the sad news. (听到那个悲伤的消息后，她感到很沮丧。)
+
+343. **board** [n.] 板，木板，甲板，董事会，伙食，舞台；[vt.] 上（飞机、船、车等），有偿提供食宿，用木板覆盖；[vi.] 搭伙
+   - The passengers are now boarding the plane. (乘客们现在正在登机。)
+   - He serves on the board of directors. (他在董事会任职。)
+
+344. **boast** [n.] 吹牛；[vi.] 吹牛，自夸；[vt.] 吹牛，吹嘘
+   - He is always boasting about his athletic skills. (他总是吹嘘自己的运动技能。)
+   - The city boasts some of the best museums in the country. (这个城市拥有该国一些最好的博物馆。)
+
+345. **boat** [n.] 小船，艇，渔船，船型物体；[vt.] 放于船上；[vi.] 划船
+   - We spent the afternoon boating on the lake. (我们花了一个下午的时间在湖上划船。)
+   - The fisherman secured his boat to the dock. (渔夫把他的船系在码头上。)
+
+346. **body** [n.] 身体，人，主体，尸体，正文；[vt.] 赋予形体，体现
+   - The human body is capable of amazing things. (人体能够做出惊人的事情。)
+   - The committee was formed to body forth the views of the community. (委员会成立是为了体现社区的观点。)
+
+347. **boil** [n.] 沸腾；[vi.] 沸腾，汽化；[vt.] 煮沸
+   - Water boils at 100 degrees Celsius. (水在100摄氏度时沸腾。)
+   - Please boil the water before drinking. (饮用前请先将水煮沸。)
+
+348. **bold** [adj.] 大胆的，冒失的，粗体的，醒目的，无礼的，陡峭的
+   - It was a bold move to quit her job and start her own business. (她辞职创业是一个大胆的举动。)
+   - The bold text in the document highlights the important points. (文档中的粗体文字突出了重要的点。)
+
+349. **bolt** [n.] 螺栓，螺钉，插销，门闩，突发，剑弩，闪电；[vt.] 闩门，闩住，用螺栓固定在一起，狼吞虎咽；[vi.] 冲出去，急逃；[adv.] 背部挺直地坐或站
+   - He bolted the door before going to bed. (他上床睡觉前把门闩上了。)
+   - The horse bolted as soon as it heard the loud noise. (马一听到响声就突然逃跑了。)
+
+350. **bomb** [n.] 炸弹，高压罐，火山口喷出的熔岩；[vt.] 轰炸，大败，长传；[vi.] 失败
+   - The bomb squad was called to defuse the explosive device. (拆弹小组被叫来拆除爆炸装置。)
+   - His first performance on stage was a bomb. (他的首次舞台表演失败了。)
+
+351. **bond** [n.] 联结，联系，结合，公债，债券，粘结剂，粘合剂
+   - The bond between mother and child is very strong. (母亲与孩子之间的联系非常紧密。)
+   - He invested in government bonds for a secure future. (他投资政府债券以确保未来的安全。)
+
+352. **bone** [n.] 骨，骨骼，核心；[vt.] 除去骨头，往衣服里加撑条，磨光表面；[vi.] 努力学习；[adv.] 非常地，极其地
+   - The dog buried its bone in the garden. (狗在花园里埋了它的骨头。)
+   - He boned up on his history notes before the final exam. (他在期末考试前认真复习了他的历史笔记。)
+
+353. **book** [n.] 书，书籍；[vt.] 预定，登记；[vi.] 通过...预订
+   - I'm reading a book on ancient Roman history. (我正在读一本关于古罗马历史的书。)
+   - She booked a flight to Paris for next week. (她预订了下周飞往巴黎的航班。)
+
+354. **boot** [n.] 靴子，长统靴，(英)汽车行李箱，猛踢，锁扣；[vt.] 踢，穿靴子，锁车；[vi.] (计算机)启动，在(通常为非法停放的汽车)车轮上装制动装置，利用，帮助
+   - He put on his boots before going out into the snow. (他在出门踏雪前穿上了靴子。)
+   - The computer boots up much faster after the upgrade. (升级后，计算机启动得更快了。)
+
+355. **border** [n.] 边，边缘，边界；[vt.] 作...之疆界，加边
+   - The river forms the natural border between the two countries. (这条河形成了两国之间的自然边界。)
+   - She bordered the quilt with red fabric to add contrast. (她在被子边上加了红色布料以增加对比。)
+
+356. **bore** [vt.] 使厌烦，钻，挖；[vi.] 挖掘，开凿
+   - His long speeches bore me to tears. (他冗长的演讲让我无聊得想哭。)
+   - The machine bored a hole in the metal plate. (机器在金属板上钻了一个洞。)
+
+357. **born** [adj.] 天生的，出生的，与生俱来的
+   - She was born with a talent for music. (她天生具有音乐天赋。)
+   - He's a born leader, always taking charge in difficult situations. (他是一个天生的领导者，在困难情况下总是能够带头。)
+
+358. **borrow** [vt.] 借，借用，借入
+   - Can I borrow a pen? Mine just ran out of ink. (我能借一支笔吗？我的刚刚没墨了。)
+   - She borrowed a book from the library. (她从图书馆借了一本书。)
+
+359. **boss** [n.] 老板，上司；[vt.] 指挥，控制
+   - He is a good boss who always listens to his employees. (他是一个很好的老板，总是倾听员工的意见。)
+   - She bossed the project, making sure everything was done on time. (她管理这个项目，确保一切都按时完成。)
+
+360. **both** [adj.] 两者的；[conj.] 不但…而且…；[pron.] 两者(都)
+   - Both of the answers are correct. (这两个答案都是正确的。)
+   - We were both tired and hungry after the long journey. (长途旅行后，我们又累又饿。)
+
+361. **bother** [vt.] 烦扰，迷惑；[vi.] 烦扰，操心；[n.] 麻烦，烦扰
+   - Please don't bother the neighbors with loud music. (请不要用大声的音乐打扰邻居。)
+   - It's no bother at all; I'm happy to help. (这根本不麻烦；我很乐意帮忙。)
+
+362. **bottle** [n.] 瓶，酒瓶，一瓶；[vt.] 装瓶，抑制
+   - She bought a bottle of water to take to the gym. (她买了一瓶水带到健身房。)
+   - He bottled up his feelings instead of expressing them. (他抑制住了自己的感情，而不是表达出来。)
+
+363. **bottom** [n.] 底，底部，根基，臀部，船身，水底；[adj.] 底部的；[vt.] 给...装底，建立基础；[vi.] 到达底部，垫底
+   - The divers explored the bottom of the ocean. (潜水员探索了海洋的底部。)
+   - The company's profits have hit rock bottom this year. (公司的利润今年已经跌到了最低点。)
+
+364. **bounce** [n.] 跳，反跃，弹力；[vt.] 弹跳，向...透露注意；[vi.] 反跳，弹起，跳起，重新恢复
+   - The ball bounced off the wall. (球从墙上弹了回来。)
+   - The children love to bounce on the trampoline. (孩子们喜欢在蹦床上跳来跳去。)
+
+365. **bound** [n.] 跳跃，界限，范围；[adj.] 一定的，必定的，有义务的，受约束的，装订的；[vt.] 跳跃前进，形成界限
+   - The deer bounded across the road. (那只鹿跳跃着穿过了道路。)
+   - It's bound to rain later; the clouds are getting darker. (天后来肯定会下雨；云层越来越暗了。)
+
+366. **boundary** [n.] 分界线，边界
+   - The fence marks the boundary of our property. (这个篱笆标志着我们财产的界限。)
+   - There are no boundaries to what you can achieve. (你能达到的成就没有界限。)
+
+367. **bow** [n.] 弓，蝴蝶结，鞠躬，船头；[vi.] 鞠躬，成弓形，弯腰；[vt.] 重压，弯曲
+   - The violinist rosined her bow before the concert. (小提琴手在音乐会前给她的弓上了松香。)
+   - He took a bow after the performance to thank the audience. (表演结束后，他鞠了个躬以感谢观众。)
+
+368. **bowl** [n.] 碗，钵，碗状物；[vi.] 打保龄球，快速移动；[vt.] 投球，得分
+   - She served the soup in a large ceramic bowl. (她在一个大陶瓷碗里盛了汤。)
+   - They went bowling every Saturday night. (他们每个星期六晚上都去打保龄球。)
+
+369. **box** [n.] 箱，盒，包箱，专席，亭子，窘境；[vt.] 装...入盒中，限制住，改变形状，用拳击…；[vi.] 参与拳击，拳击
+   - She put the gift in a box and wrapped it with a ribbon. (她把礼物放在盒子里，用丝带包装起来。)
+   - The two boxers will box for the championship title tonight. (这两个拳击手今晚将为冠军头衔而战。)
+
+370. **boy** [n.] 男孩，儿子，少年，家伙
+   - The little boy lost his toy and started crying. (那个小男孩丢了玩具，开始哭泣。)
+   - He's a good boy; he always does his homework on time. (他是个好孩子；他总是按时做作业。)
+
+371. **brain** [n.] 脑，脑髓，脑力，智力；[vt.] 打...的脑袋
+   - The human brain is an incredibly complex organ. (人类的大脑是一个极其复杂的器官。)
+   - The detective used his brains to solve the mystery. (侦探动用他的智力解开了这个谜。)
+
+372. **brake** [n.] 蕨菜，闸，刹车，制动器；[vt. & vi.] 制动，煞车
+   - Always check your brakes before a long drive. (长途驾前总要检查刹车。)
+   - He braked suddenly when a cat ran across the road. (当一只猫跑过马路时，他突然刹车。)
+
+373. **branch** [n.] 分支，树枝，分部，分科；[vt. & vi.] 分支，分岔
+   - The bank has several branches throughout the city. (这家银行在全市有几个分行。)
+   - The tree branch was heavy with ripe fruit. (树枝因熟果沉重。)
+
+374. **brand** [n.] 商品，商标，牌子，烙印，类型；[vt.] 铭刻，打烙印，污蔑
+   - She prefers to buy well-known brands when she shops. (她购物时喜欢买知名品牌的商品。)
+   - The cattle were branded with the ranch's symbol. (牛被打上了牧场的标志。)
+
+375. **brass** [n.] 黄铜(制品)，黄铜器，铜管(乐器)；[adj.] 黄铜的
+   - The door handle is made of solid brass. (门把手是由实心黄铜制成的。)
+   - He plays the trumpet, which is a brass instrument. (他吹小号，这是一种铜管乐器。)
+
+376. **brave** [adj.] 勇敢的，华丽的，缤纷的；[vt.] 勇敢地面对(危险等)，抵抗；[n.] 勇敢的人
+   - The brave firefighter saved the child from the burning building. (勇敢的消防员从燃烧的大楼中救出了孩子。)
+   - To brave the storm, they secured all the windows and doors. (为了勇敢面对暴风雨，他们把所有的窗户和门都固定好了。)
+
+377. **bread** [n.] 面包，食物，粮食，生计；[vt.] 撒面包屑
+   - Bread is a staple food in many cultures. (面包在许多文化中是主食。)
+   - The cook breaded the chicken before frying it. (厨师在炸鸡前先给鸡肉裹上面包屑。)
+
+378. **breadth** [n.] 宽度，幅度，幅面
+   - The breadth of the river makes it difficult to swim across. (这条河的宽度使得游过去很困难。)
+   - The breadth of her knowledge on the subject impressed everyone. (她在这个主题上的知识广度给大家留下了深刻的印象。)
+
+379. **break** [n.] 休息，中断，破裂；[vt.] 打破，损坏，弄破，弄坏，破坏
+   - Let's take a break and have some coffee. (我们休息一下，喝点咖啡。)
+   - The burglar broke the window to get into the house. (窃贼打破窗户进入房屋。)
+
+380. **breakfast** [n.] 早饭，早餐；[vt.] 吃早餐；[vi.] 提供早餐
+   - Breakfast is the most important meal of the day. (早餐是一天中最重要的一餐。)
+   - They breakfasted on pancakes and maple syrup. (他们以煎饼和枫糖浆作为早餐。)

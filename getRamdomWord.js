@@ -44,6 +44,6 @@ function getRandomWordsByIndex(start, end) {
 
 
 // 使用函数
-getRandomWordsByIndex(251,295);
+getRandomWordsByIndex(295,336);
 
 
