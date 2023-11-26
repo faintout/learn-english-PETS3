@@ -4,15 +4,19 @@ const content = fs.readFileSync('./onlyWord.md', 'utf8');
 function parseMarkdownFile() {
   const regex = /\*\*(.*?)\*\*\s*\[.*?\]\s*(.*)/g;
   let match;
-  const englishWords = [];
-  const chineseMeanings = [];
+  const wordsParams = [];
 
   while ((match = regex.exec(content)) !== null) {
-    englishWords.push(match[1]);
-    chineseMeanings.push(match[2]);
+    wordsParams.push(
+      {
+        english:match[1],
+        chinese:match[2]
+      }
+    )
+
   }
 
-  return { englishWords, chineseMeanings };
+  return wordsParams;
 }
 
 // 打乱数组顺序的函数
@@ -26,24 +30,23 @@ function shuffleArray(array) {
 
 // 获取随机单词和中文解释
 function getRandomWordsByIndex(start, end) {
-  const { englishWords, chineseMeanings } = parseMarkdownFile();
-  let selectedEnglishWords = englishWords;
-  let selectedChineseMeanings = chineseMeanings;
+  const wordsList = parseMarkdownFile();
+  let selectedWordsList = wordsList;
   if(start !== undefined && end !== undefined){
-      selectedEnglishWords = englishWords.slice(start-1, end );
-      selectedChineseMeanings = chineseMeanings.slice(start-1, end);
+    selectedWordsList = wordsList.slice(start-1, end );
   }
 
-  const shuffledEnglishWords = shuffleArray(selectedEnglishWords);
-  const shuffledChineseMeanings = shuffleArray(selectedChineseMeanings);
+  const shuffledWordsList = shuffleArray(selectedWordsList);
 
-  shuffledEnglishWords.map(_=>console.log(_))
+  shuffledWordsList.map(_=>console.log(_.english))
   console.log();
-  shuffledChineseMeanings.map(_=>console.log(_))
+  shuffledWordsList.map(_=>console.log(_.chinese))
 }
 
 
 // 使用函数
-getRandomWordsByIndex(295,336);
+getRandomWordsByIndex();
+// getRandomWordsByIndex(295,336);
+
 
 
