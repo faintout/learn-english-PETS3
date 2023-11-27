@@ -1522,3 +1522,159 @@
 380. **breakfast** [n.] 早饭，早餐；[vt.] 吃早餐；[vi.] 提供早餐
    - Breakfast is the most important meal of the day. (早餐是一天中最重要的一餐。)
    - They breakfasted on pancakes and maple syrup. (他们以煎饼和枫糖浆作为早餐。)
+
+381. **breast** [n.] 乳房，胸脯，胸膛
+   - She wore a pendant that rested just above her breast. (她戴着一个吊坠，正好悬在她的胸前。)
+   - The athlete puffed out his breast as he crossed the finish line. (运动员在冲过终点线时挺起胸膛。)
+
+382. **breath** [n.] 气息，呼吸，气味，微风，迹象，精神，一种说话的声音
+   - He took a deep breath before diving into the pool. (他在跳入泳池前深吸了一口气。)
+   - The morning breath of fresh air was invigorating. (清晨的新鲜空气令人振奋。)
+
+383. **breathe** [vi.] 呼吸；[vt.] 呼吸，轻声说，流露感情，注入
+   - It's important to breathe deeply to relax. (深呼吸对放松很重要。)
+   - She breathed life into the lifeless party with her laughter. (她的笑声给无生气的派对注入了活力。)
+
+384. **breed** [n.] 品种，族类；[vt.] 使繁殖，养育，繁殖，引起；[vi.] 繁殖
+   - The Labrador Retriever is a popular dog breed. (拉布拉多寻回犬是一种受欢迎的狗品种。)
+   - Farmers breed cattle for both milk and meat. (农民饲养牛既为了获取牛奶也为了肉。)
+
+385. **breeze** [n.] 微风，和风，轻而易举的事；[vi.] 飘然而行，轻松地得胜或进步
+   - A gentle breeze was blowing through the trees. (树间吹过一阵和风。)
+   - He breezed through the exam without any difficulty. (他轻松地通过了考试，没有任何困难。)
+
+386. **brick** [n.] 砖，砖块，砖状物，积木，可靠的朋友；[vt.] (up)用砖砌补，用砖堵住
+   - The house was built with red bricks. (这所房子是用红砖建造的。)
+   - He's been a real brick, supporting me through difficult times. (在我困难时期，他一直是我的可靠朋友。)
+
+387. **bridge** [n.] 桥，桥梁，桥牌，鼻梁；[vt.] 渡过，架桥
+   - The Golden Gate Bridge is an iconic landmark in San Francisco. (金门大桥是旧金山的标志性地标。)
+   - The two countries were able to bridge their differences through dialogue. (这两个国家通过对话弥合了它们之间的分歧。)
+
+388. **brief** [n.] 摘要，简报；[adj.] 简短的，简洁的，短暂的；[vt.] 作简报，简单讨论
+   - The CEO gave a brief overview of the company's performance. (首席执行官对公司的业绩做了简短的概述。)
+   - His visit was brief but enjoyable. (他的访问虽短暂，但很愉快。)
+
+389. **bright** [adj.] 明亮的，阳光的，生动的，聪明的；[adv.] 亮；[n.] 亮色
+   - The room was bright with sunlight. (房间里阳光明媚。)
+   - She's a bright student who understands concepts quickly. (她是一个聪明的学生，理解概念很快。)
+
+390. **brilliant** [adj.] 光辉的，卓越的，灿烂的，有才气的，杰出的；[n.] 宝石
+   - The scientist made a brilliant discovery. (这位科学家做出了杰出的发现。)
+   - The diamond's brilliant cut sparkled in the light. (钻石的明亮切割在光线下闪耀。)
+
+391. **bring** [vt.] 带来，引出，促使，劝诱；[vi.] 产生
+   - Please bring your textbooks to class. (请把你的课本带到课堂上。)
+   - The new policy will bring significant changes to the healthcare system. (新政策将给医疗保健系统带来重大变化。)
+
+392. **Britain** [n.] 不列颠，英国
+   - Britain is known for its rich history and cultural heritage. (不列颠以其丰富的历史和文化遗产而闻名。)
+   - The Prime Minister of Britain addressed the nation last night. (英国首相昨晚向全国发表了讲话。)
+
+393. **broadcast** [n.] 广播，广播节目，播音；[adj.] 广播的；[vt. & vi.] 广播；[adv.] 经广播，四散地
+   - The football game will be broadcast live at 6 p.m. (足球赛将于晚上6点进行现场直播。)
+   - Farmers broadcast seeds across the fields in the spring. (农民们在春天将种子撒播在田野里。)
+
+394. **brother** [n.] 兄弟，同事，同胞，教友
+   - He has two brothers and one sister. (他有两个兄弟和一个妹妹。)
+   - In times of crisis, we must act as brothers and support each other. (在危机时刻，我们必须像兄弟一样互相支持。)
+
+395. **brow** [n.] 额，眉，眉毛
+   - She wiped the sweat from her brow after the workout. (锻炼后，她擦去了额头上的汗水。)
+   - His brow furrowed in concentration as he read the document. (他阅读文件时，眉头紧锁，专注地思考。)
+
+396. **brown** [adj.] 褐色的，棕色的；[n.] 褐色，棕色
+   - The brown leather sofa matched the wooden floor perfectly. (棕色皮沙发与木地板完美搭配。)
+   - Autumn leaves turn various shades of brown. (秋天的树叶变成了各种棕色的阴影。)
+
+397. **brush** [n.] 刷子，毛刷，画笔，轻擦，小冲突，灌木丛；[vt.] 用刷子清洗，画，拭去，打发；[vi.] 轻擦，拂拭
+   - She used a brush to clean the dust off her jacket. (她用刷子把夹克上的灰尘刷掉。)
+   - The painter dipped his brush into the paint before applying it to the canvas. (画家在将颜料涂到画布上之前，先将画笔蘸满颜料。)
+
+398. **bubble** [n.] 泡，泡沫，气泡，幻想，骗局，欢乐；[vi.] 冒泡，沸腾，起泡，出现，洋溢；[vt.] 使冒泡
+   - Children love to blow bubbles in the park. (孩子们喜欢在公园里吹泡泡。)
+   - The soup began to bubble as it reached boiling point. (汤在接近沸点时开始冒泡。)
+
+399. **bucket** [n.] 水桶，吊桶，铲斗；[vt.] 装在桶里；[vi.] 急急忙忙
+   - He carried a bucket of water from the well. (他从井里提了一桶水。)
+   - Rain was bucketing down all afternoon. (整个下午雨都在倾盆而下。)
+
+400. **build** [vt. & vi.] 建筑，建立，创立，建造，创建，开发，逐渐增强；[n.] 体格身材
+   - They plan to build a new bridge across the river. (他们计划在河上建一座新桥。)
+   - He has the build of an athlete, tall and muscular. (他有运动员的体格，又高又壮。)
+
+401. **building** [n.] 建筑物，大楼，建筑
+   - The new library building is a marvel of modern architecture. (新图书馆大楼是现代建筑的奇迹。)
+   - Building maintenance is important to ensure safety and longevity. (建筑维护对确保安全和延长使用寿命很重要。)
+
+402. **bulb** [n.] 电灯泡，球状物
+   - We need to replace the burnt-out light bulb in the hallway. (我们需要更换走廊里烧坏的灯泡。)
+   - Tulips grow from a bulb planted in the ground. (郁金香是从地下的球茎生长出来的。)
+
+403. **bulk** [n.] 物体，容积，大批，大部分，大多数，大块；[vi.] 变大，增加；[vt.] 膨胀，出现；[adj.] 大量的
+   - The bulk of the work has been completed. (大部分工作已经完成。)
+   - He bought rice in bulk to save money. (他大批购买大米以节省开支。)
+
+404. **bullet** [n.] 枪弹，子弹，弹丸
+   - The detective found a bullet lodged in the wall. (侦探发现一颗子弹卡在墙里。)
+   - Bulletproof vests are designed to protect against bullets. (防弹衣设计用来抵御子弹。)
+
+405. **bunch** [n.] 束，球，串，一群，一组，凸起，大量；[vi.] 凸起，使成一束(或一群等)；[vt.] 使成一束
+   - She held a bunch of flowers in her hand. (她手里拿着一束花。)
+   - A bunch of us are going to the movies tonight. (我们一群人今晚要去看电影。)
+
+406. **bundle** [n.] 捆，包，束，包袱，一批，一大笔钱；[vt.] 捆，匆匆送走，附赠；[vi.] 匆忙
+   - He carried a bundle of sticks on his back. (他背上扛着一捆木棍。)
+   - The software comes with a bundle of additional tools. (这个软件附带了一包额外的工具。)
+
+407. **burden** [n.] 担子，负担，重担，装载量；[v.] 使负重，装载，烦扰
+   - The donkey struggled under the heavy burden. (驴子在沉重的负担下挣扎。)
+   - He didn't want to burden his family with his financial problems. (他不想让他的家庭承担他的财务问题。)
+
+408. **bureau** [n.] 局，司，处，社，所，办公处
+   - She filed a complaint with the Better Business Bureau. (她向更好商业局提出了投诉。)
+   - The tourist bureau provides information about attractions in the city. (旅游局提供关于城市景点的信息。)
+
+409. **burn** [vt. & vi.] 烧，燃烧，烧着，烧毁，灼伤；[n.] 烧伤，灼伤
+   - The candle burned brightly in the dark room. (蜡烛在黑暗的房间里明亮地燃烧。)
+   - He suffered a burn on his hand from the hot stove. (他的手因热炉而烧伤。)
+
+410. **burst** [n.] 破裂，阵，爆发；[vt. & vi.] 爆裂，突发
+   - The balloon burst when it touched the sharp edge. (气球一碰到尖锐的边缘就爆了。)
+   - Laughter burst from the crowd at the comedian's joke. (听了喜剧演员的笑话，人群中爆发出笑声。)
+
+411. **bury** [vt.] 埋葬，葬，埋藏
+   - They buried the treasure on the deserted island. (他们在荒岛上埋藏了宝藏。)
+   - It's time to bury the hatchet and forgive each other. (是时候埋葬战斧，相互原谅了。)
+
+412. **bush** [n.] 灌木，灌木丛，矮树，荒野；[vt.] 用灌木保护或支撑；[vi.] 成灌木形，丛生；[adj.] 长得低矮的，二流的
+   - The garden was surrounded by a thick bush of roses. (花园周围是一片浓密的玫瑰灌木丛。)
+   - He's not a star player, he's just bush league. (他不是明星球员，只是二流联赛的。)
+
+413. **business** [n.] 商业，生意，事务
+   - She has a keen sense of business and investments. (她对商业和投资有敏锐的洞察力。)
+   - Mind your own business and stop asking about my personal life. (管好你自己的事，别问我的私生活。)
+
+414. **busy** [adj.] 忙的，繁忙的，杂乱的；[vt.] 使忙于；[vi.] 忙
+   - He's always busy with work, even on weekends. (他总是忙于工作，即使在周末。)
+   - I'll busy myself with the laundry while you're cooking. (你做饭的时候，我会忙着洗衣服。)
+
+415. **but** [adv.] 仅仅，只；[conj.] 但是，可是；[prep.] 除...以外；[pron.] 只有
+   - I wanted to buy the book, but it was too expensive. (我想买那本书，但它太贵了。)
+   - Everyone but John has submitted their report. (除了约翰，每个人都提交了他们的报告。)
+
+416. **butter** [n.] 黄油，阿谀奉承；[vt.] 涂黄油
+   - She spread butter on her toast every morning. (她每天早上都在吐司上涂黄油。)
+   - He knows how to butter up his boss for favors. (他知道如何拍老板的马屁以求得好处。)
+
+417. **button** [n.] 扣子，按钮，像纽扣的东西，未成熟的蘑菇；[vt.] 扣紧，用纽扣装饰，钉纽扣，闭嘴；[vi.] 扣上
+   - She buttoned up her coat before stepping outside. (她在走出去之前扣紧了外套。)
+   - Press the button to start the machine. (按下按钮以启动机器。)
+
+418. **buy** [n.] 合理的价格，购买；[vt.] 买，购买，换得，收买，接受；[vi.] 购买
+   - That car is a good buy; it's both affordable and reliable. (那辆车很值得购买；既实惠又可靠。)
+   - He bought a ticket for the next flight to Rome. (他买了一张下一班飞往罗马的机票。)
+
+419. **by** [prep.] 在...旁，被，由，经由，在...之前，根据；[adv.] 靠近，经过，放在一旁地；[adj.] 在旁边的，附带的；[n.] 次要的事件
+   - The book was written by a famous author. (这本书是由一位著名作家写的。)
+   - The police officer asked the bystanders to stand by for questioning. (警官要求旁观者待命接受询问。)
