@@ -1994,3 +1994,155 @@
 498. **charge** [n.] 费用，责任；[vt.] 索价，控告；[vi.] 充电
    - The restaurant didn't charge us for the dessert. (餐厅没有向我们收甜点的费用。)
    - The police charged him with speeding. (警方指控他超速。)
+
+499. **chart** [n.] 图，图表，海图；[vt.] 制成图表
+   - The teacher used a chart to explain the statistics. (老师用一张图表来解释统计数据。)
+   - We charted our course on the map before setting out on the journey. (我们在出发前在地图上规划了我们的路线。)
+
+500. **chase** [n.] 追逐，追赶，追求，狩猎，争取；[vt.] 追捕，狩猎
+   - The police chase ended with the capture of the fugitive. (警察追捕以逃犯的抓捕告终。)
+   - The lioness chased the antelope across the savannah. (母狮在草原上追赶羚羊。)
+
+501. **cheap** [adj.] 廉价的，便宜的，劣质的，品质低的，虚伪的；[adv.] 便宜地
+   - I bought a cheap shirt from the discount rack. (我从打折架上买了一件便宜的衬衫。)
+   - He sold out his friend for a cheap profit. (他为了一点微薄的利润出卖了他的朋友。)
+
+502. **cheat** [n.] 骗子，欺骗行为；[vt.] 骗取，哄，作弊；[vi.] 行骗，作弊
+   - He was known as a cheat after he was caught plagiarizing. (他被抓到剽窃后，被认为是个骗子。)
+   - Students who cheat on exams risk failing the course. (在考试中作弊的学生有不及格的风险。)
+
+503. **check** [vt.] 检查，制止，阻止，核对
+   - Please check your answers before submitting the test. (请在提交试卷前检查你的答案。)
+   - The government introduced new laws to check the spread of the disease. (政府引入了新法律以阻止疾病的传播。)
+
+504. **cheek** [n.] 面颊，脸蛋
+   - Her cheeks turned red with embarrassment. (她的脸颊因尴尬而变红。)
+   - He kissed her on the cheek as a friendly gesture. (他亲吻她的脸颊作为友好的表示。)
+
+505. **cheer** [n.] 愉快，激励，欢呼；[vt.] 欢呼，加油，鼓舞，快活起来；[vi.] 使振奋欢呼
+   - The crowd's cheer lifted the team's spirit. (人群的欢呼提升了团队的士气。)
+   - We cheered on our friends as they ran the marathon. (我们为参加马拉松的朋友们加油。)
+
+506. **cheerful** [adj.] 快乐的，愉快的
+   - She has a cheerful disposition that's contagious. (她有一种会传染的愉快性情。)
+   - The cheerful music made everyone feel better. (欢快的音乐让每个人都感觉更好。)
+
+507. **cheese** [n.] 乳酪；[vt.] 停止
+   - I love adding cheese to my pasta. (我喜欢在意大利面里加乳酪。)
+   - The director yelled "cheese it" when the police arrived on set. (当警察到达片场时，导演喊道“停止”。)
+
+508. **chemical** [adj.] 化学的；[n.] 化学制品
+   - The chemical reaction produced a lot of heat. (化学反应产生了大量的热。)
+   - We store all the chemicals in a secure cabinet. (我们将所有化学品存放在一个安全的柜子里。)
+
+509. **chemist** [n.] 化学家，药剂师
+   - The chemist is working on a new compound in the lab. (化学家正在实验室研究一种新的化合物。)
+   - I need to visit the chemist to fill my prescription. (我需要去药剂师那里配药。)
+
+510. **chemistry** [n.] 化学，化学性质，相互作用
+   - She has a degree in chemistry from a prestigious university. (她拥有一所著名大学的化学学位。)
+   - There's a lot of chemistry between those two; they're always laughing together. (那两个人之间的相互作用很强；他们总是一起笑。)
+
+511. **cheque** [n.] 支票
+   - I received a cheque for my birthday from my grandparents. (我从祖父母那里收到了一张生日支票。)
+   - Please make the cheque payable to "ABC Charity." (请将支票抬头写作“ABC慈善机构”。)
+
+512. **cherry** [n.] 樱桃，樱桃树，樱桃色
+   - Fresh cherry pie is my favorite dessert. (新鲜的樱桃派是我最喜欢的甜点。)
+   - The cherry blossoms in spring are a beautiful sight. (春天的樱花是一道美丽的风景。)
+
+513. **chess** [n.] 棋，国际象棋
+   - Chess is a game that requires strategic thinking. (国际象棋是一种需要战略思考的游戏。)
+   - They sat down to play a game of chess in the park. (他们坐下在公园里下了一盘棋。)
+
+514. **chest** [n.] 胸腔，胸膛；(大)箱子，金库，资金，一箱，密封室：衣橱
+   - He felt a sharp pain in his chest. (他感到胸口剧痛。)
+   - The old chest was filled with ancient treasures. (那个旧箱子里装满了古老的宝藏。)
+
+515. **chew** [vt.] 咀嚼，嚼碎；[vi.] 咀嚼；[n.] 咀嚼，咀嚼物
+   - You should chew your food well before swallowing. (你应该在吞咽前好好咀嚼食物。)
+   - The dog loves to chew on his rubber bone. (那只狗喜欢咀嚼它的橡胶骨头。)
+
+516. **chicken** [n.] 小鸡，小鸟，鸡肉；[adj.] 懦弱的，胆小的
+   - We're having chicken for dinner tonight. (我们今晚晚餐吃鸡肉。)
+   - Don't be such a chicken; just try the roller coaster! (别那么胆小；试试过山车吧！)
+
+517. **chief** [adj.] 主要的，首席的；[n.] 首领
+   - The chief reason for the delay was the bad weather. (延误的主要原因是恶劣的天气。)
+   - The chief of the tribe spoke at the council meeting. (部落首领在理事会会议上发言。)
+
+518. **child** [n.] 小孩，儿童，儿子，产物
+   - Every child in the school was given a book. (学校里的每个孩子都得到了一本书。)
+   - Creativity is often seen as the child of freedom. (创造力常被视为自由的产物。)
+
+519. **childhood** [n.] 童年，幼年，早期
+   - Her childhood was spent in the countryside. (她的童年在乡下度过。)
+   - Childhood memories often last a lifetime. (童年的记忆往往会持续一生。)
+
+520. **chimney** [n.] 烟囱，烟筒，玻璃罩
+   - Smoke billowed from the chimney of the old house. (烟雾从老房子的烟囱中冒出。)
+   - Santa Claus is said to come down the chimney on Christmas Eve. (据说圣诞老人在平安夜会从烟囱下来。)
+
+521. **chin** [n.] 下巴；[vt.] 做单杠；[vi.] 作引体向上，聊天
+   - He stroked his chin thoughtfully. (他若有所思地抚摸着下巴。)
+   - The athletes had to chin themselves ten times during the test. (运动员在测试中必须做十次引体向上。)
+
+522. **China** [n.] 中国
+   - The Great Wall is one of the most famous landmarks in China. (长城是中国最著名的地标之一。)
+   - Tea culture has a long history in China. (茶文化在中国有着悠久的历史。)
+
+523. **Chinese** [adj.] 中国的；[n.] 中国人，汉语
+   - Chinese cuisine is loved by many people around the world. (中国菜受到世界各地许多人的喜爱。)
+   - She is learning Chinese at the language school. (她在语言学校学习汉语。)
+
+524. **chocolate** [n.] 巧克力，巧克力糖，巧克力饮品；[adj.] 巧克力的，有巧克力糖衣的，巧克力色的
+   - I have a weakness for dark chocolate. (我对黑巧克力情有独钟。)
+   - She ordered a hot chocolate to warm up. (她点了一杯热巧克力来暖身。)
+
+525. **choice** [n.] 选择，挑选，抉择；[adj.] 上等的，精选的
+   - You have a choice between tea and coffee. (你可以在茶和咖啡之间选择。)
+   - This restaurant is known for its choice cuts of meat. (这家餐厅以其上等的肉类切片而闻名。)
+
+526. **choose** [vt.] 选择，挑选；[vi.] 选择
+   - Please choose the best answer to each question. (请为每个问题选择最佳答案。)
+   - You can choose to stay or leave; it's up to you. (你可以选择留下或离开；由你决定。)
+
+527. **Christmas** [n.] 圣诞节
+   - Children look forward to Christmas all year. (孩子们一整年都在期待圣诞节。)
+   - We decorate the house with lights and ornaments for Christmas. (我们用灯饰和装饰品来装点房子庆祝圣诞节。)
+
+528. **church** [n.] 教堂，礼拜堂，礼拜仪式，基督教徒，教会；[adj.] 教堂的；[vt.] 把...带到教堂接受某种宗教仪式
+   - They got married in a small church in the countryside. (他们在乡下的一座小教堂里结婚。)
+   - The church bells ring every Sunday morning. (教堂的钟声每个星期日早上都会响起。)
+
+529. **cigarette** [n.] 香烟，纸烟，卷烟
+   - Smoking a cigarette can harm your health. (吸烟可能会损害你的健康。)
+   - He lit a cigarette and inhaled deeply. (他点燃了一支香烟，深深地吸了一口。)
+
+530. **cinema** [n.] 电影院，电影，影片
+   - Let's go to the cinema to watch the latest blockbuster. (我们去电影院看最新的大片吧。)
+   - The golden age of Italian cinema produced many classics. (意大利电影的黄金时代产生了许多经典作品。)
+
+531. **circle** [n.] 圆，圆周，圈子，社交圈，循环；[vt. & vi.] 包围，盘旋，环绕
+   - Draw a circle on the paper. (在纸上画一个圆。)
+   - The plane circled the airport before landing. (飞机在降落前绕机场盘旋。)
+
+532. **circumstance** [n.] 情况，条件，境遇，环境；[pl.] 境况，事件，详情
+   - Under no circumstance should you open this door. (在任何情况下你都不应该打开这扇门。)
+   - The police are investigating the circumstances of the accident. (警方正在调查事故的具体情况。)
+
+533. **citizen** [n.] 公民，市民，居民
+   - Every citizen has the right to vote. (每个公民都有投票权。)
+   - As a responsible citizen, he always pays his taxes on time. (作为一个负责任的公民，他总是按时缴税。)
+
+534. **city** [n.] 城市，都市
+   - New York is a city that never sleeps. (纽约是一个不夜城。)
+   - The city council approved the new building project. (市议会批准了新的建筑项目。)
+
+535. **civil** [adj.] 国内的，公民的，文职的，文明的，有礼貌的，民用的
+   - Civil unrest can lead to social change. (国内动乱可以导致社会变革。)
+   - It's important to remain civil during a debate. (在辩论中保持礼貌是很重要的。)
+
+536. **civilize** [vt.] 使文明，教育
+   - The explorers believed it was their duty to civilize the indigenous people. (探险家们认为他们有责任教化当地人。)
+   - The process to civilize the remote regions took many years. (使偏远地区文明化的过程花了很多年。)
