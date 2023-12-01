@@ -2146,3 +2146,155 @@
 536. **civilize** [vt.] 使文明，教育
    - The explorers believed it was their duty to civilize the indigenous people. (探险家们认为他们有责任教化当地人。)
    - The process to civilize the remote regions took many years. (使偏远地区文明化的过程花了很多年。)
+
+537. **claim** [v.] 要求，请求，声称；[n.] 要求，主张
+   - He claims that he saw a UFO last night. (他声称他昨晚看到了一个不明飞行物。)
+   - The insurance company is processing my claim for the car accident. (保险公司正在处理我因车祸提出的索赔。)
+
+538. **clap** [v.] 拍手，砰地一声；[n.] 拍手，拍手声
+   - The audience clapped enthusiastically after the performance. (演出结束后，观众热烈鼓掌。)
+   - A sudden clap of thunder startled everyone in the room. (一声突如其来的雷声吓了屋内的每个人一跳。)
+
+539. **class** [n.] 班级，阶级，种类；[v.] 分类
+   - She is the top student in her class. (她是她班上的顶尖学生。)
+   - We need to class these books according to genre. (我们需要按照类型对这些书进行分类。)
+
+540. **classical** [adj.] 古典的，经典的
+   - I enjoy listening to classical music in my free time. (空闲时间我喜欢听古典音乐。)
+   - The building's architecture has a classical elegance. (这座建筑的建筑风格具有古典的优雅。)
+
+541. **classify** [v.] 把...分类，归类
+   - Scientists classify animals into different groups. (科学家们将动物分成不同的群组。)
+   - We need to classify these documents by their level of importance. (我们需要按照文件的重要性对它们进行分类。)
+
+542. **classmate** [n.] 同班同学
+   - She shared her notes with a classmate who had missed the lecture. (她与没听讲座的同班同学分享了她的笔记。)
+   - My classmate and I are working on a project together. (我和我的同班同学正在一起做一个项目。)
+
+543. **classroom** [n.] 教室，课堂
+   - The teacher decorated the classroom with posters and artwork. (老师用海报和艺术作品装饰教室。)
+   - Students were talking loudly before the teacher entered the classroom. (在老师进教室之前，学生们在大声交谈。)
+
+544. **claw** [n.] 爪，钳；[v.] 抓，撕
+   - The cat sharpened its claws on the scratching post. (猫在抓 scratching post 上磨爪子。)
+   - The eagle clawed at its prey before flying off. (老鹰抓住猎物后飞走了。)
+
+545. **clay** [n.] 粘土，泥土
+   - Artists use clay to make sculptures and pottery. (艺术家使用粘土制作雕塑和陶器。)
+   - The heavy rain turned the soil into wet clay. (大雨使土壤变成了湿粘土。)
+
+546. **clean** [adj.] 清洁的；[adv.] 完全地；[v.] 打扫
+   - Please keep your hands clean before handling food. (在处理食物之前，请保持双手清洁。)
+   - He cleaned the room so thoroughly that it looked brand new. (他彻底清洁了房间，看起来像新的一样。)
+
+547. **clear** [adj.] 清晰的；[v.] 清除，澄清；[adv.] 清楚地；[n.] 空地
+   - The instructions were clear and easy to follow. (说明清晰易懂。)
+   - After the rain, the skies cleared up. (雨后天空放晴了。)
+
+548. **clerk** [n.] 店员，办事员
+   - The clerk at the front desk greeted us with a smile. (前台的店员微笑着迎接我们。)
+   - She works as a clerk in a law firm downtown. (她在市中心的一家律师事务所当店员。)
+
+549. **clever** [adj.] 聪明的，机敏的
+   - The child was clever enough to solve the puzzle quickly. (这个孩子很聪明，很快就解开了这个谜。)
+   - He thought of a clever solution to the problem. (他想到了一个聪明的解决办法。)
+
+550. **cliff** [n.] 悬崖，峭壁
+   - The climber carefully made his way up the steep cliff. (攀登者小心翼翼地沿着陡峭的悬崖向上攀爬。)
+   - The house was built on the edge of a cliff overlooking the sea. (这所房子建在俯瞰大海的悬崖边上。)
+
+551. **climate** [n.] 气候
+   - The Mediterranean climate is known for its mild, wet winters and hot, dry summers. (地中海气候以其温和湿润的冬季和炎热干燥的夏季而闻名。)
+   - Climate change is a serious issue that affects the entire planet. (气候变化是一个影响整个地球的严重问题。)
+
+552. **climb** [v.] 攀登；[n.] 攀登
+   - We are planning to climb Mount Everest next year. (我们计划明年攀登珠穆朗玛峰。)
+   - The climb was difficult, but the view from the top was worth it. (攀登很困难，但从顶部看的景色是值得的。)
+
+553. **clock** [n.] 时钟，计时器
+   - The clock on the wall is ten minutes fast. (墙上的时钟快了十分钟。)
+   - He looked at the clock and realized he was late for his appointment. (他看了看时钟，意识到他迟到了。)
+
+554. **close** [v.] 关闭，结束；[adj.] 靠近的；[adv.] 紧挨着；[n.] 结束
+   - Please close the door when you leave the room. (离开房间时请关上门。)
+   - They have a close relationship with their grandparents. (他们和祖父母的关系很亲近。)
+
+555. **cloth** [n.] 布，衣料
+   - She bought a piece of cloth to make a new dress. (她买了一块布来做一条新裙子。)
+   - The table was covered with a white cloth. (桌子上铺着一块白布。)
+
+556. **clothe** [v.] 给...穿衣服，覆盖
+   - Parents must clothe and feed their children. (父母必须给孩子们穿衣和喂食。)
+   - The mountain was clothed in a blanket of snow. (山被一层雪覆盖。)
+
+557. **clothes** [n.] 衣服
+   - She put away her summer clothes and took out her winter wardrobe. (她收起了夏天的衣服，拿出了冬天的衣橱。)
+   - You should change into dry clothes to avoid catching a cold. (你应该换上干净的衣服，以免感冒。)
+
+558. **cloud** [n.] 云；[v.] 使模糊，笼罩
+   - The sky is full of white fluffy clouds today. (今天天空中充满了白色的蓬松云朵。)
+   - His judgment was clouded by his emotions. (他的判断被情感所模糊。)
+
+559. **club** [n.] 俱乐部，夜总会；[v.] 用棍棒打，集合
+   - She is a member of a book club where they discuss new novels. (她是一个读书俱乐部的成员，在那里他们讨论新小说。)
+   - They clubbed together to buy a gift for their teacher. (他们合伙买了一份礼物给老师。)
+
+560. **clue** [n.] 线索；[v.] 提示
+   - The detective found a clue that might lead to the culprit. (侦探找到了一个可能指向罪犯的线索。)
+   - Can you give me a clue about the answer to this puzzle? (你能给我一个关于这个谜底的提示吗？)
+
+561. **coal** [n.] 煤；[v.] 装煤，加煤
+   - Coal is still used as a fuel in some parts of the world. (在世界的某些地方，煤炭仍然被用作燃料。)
+   - The workers coaled the furnace to keep the steam engine running. (工人们给炉子加煤以保持蒸汽机的运转。)
+
+562. **coarse** [adj.] 粗糙的，粗俗的
+   - Coarse sandpaper is used for the first stage of sanding. (粗砂纸用于打磨的第一阶段。)
+   - His coarse language made her feel uncomfortable. (他粗俗的语言让她感到不舒服。)
+
+563. **coast** [n.] 海岸；[v.] 沿海岸而行，滑行
+   - We spent our vacation on the beautiful coast of Italy. (我们在意大利美丽的海岸度过了假期。)
+   - After reaching the top of the hill, he just coasted down on his bike. (到达山顶后，他只是让自行车滑下来。)
+
+564. **coat** [n.] 外套，涂层；[v.] 覆盖
+   - It's cold outside, so don't forget to wear a coat. (外面很冷，所以别忘了穿外套。)
+   - The baker coated the cake with chocolate icing. (烘焙师给蛋糕涂上了巧克力糖霜。)
+
+565. **cock** [n.] 公鸡；[v.] 竖起
+   - The cock crowed at dawn. (公鸡在黎明时啼鸣。)
+   - He cocked his hat to one side with a defiant attitude. (他以一种挑衅的态度将帽子歪戴在一边。)
+
+566. **coffee** [n.] 咖啡
+   - Would you like some coffee in the morning? (早上你想喝点咖啡吗？)
+   - I need to stop drinking coffee late at night; it keeps me awake. (我需要停止在深夜喝咖啡，它让我保持清醒。)
+
+567. **coin** [n.] 硬币；[v.] 铸造（硬币），创造
+   - He found an old coin in the garden. (他在花园里发现了一枚古老的硬币。)
+   - The phrase "to coin a term" means to create a new word or phrase. (“创造一个术语”的意思是创造一个新词或短语。)
+
+568. **cold** [adj.] 冷的；[n.] 寒冷，感冒
+   - It's very cold outside; make sure to bundle up. (外面很冷；确保穿暖和。)
+   - I caught a cold and now I can't stop sneezing. (我感冒了，现在我停不下来打喷嚏。)
+
+569. **collar** [n.] 衣领，项圈；[v.] 抓住
+   - He grabbed the dog by its collar. (他抓住了狗的项圈。)
+   - The police collared the suspect as he tried to flee. (警察在嫌疑人试图逃跑时抓住了他。)
+
+570. **colleague** [n.] 同事
+   - I'm going to lunch with a colleague from the marketing department. (我要和市场部的一个同事一起去吃午饭。)
+   - She discussed the project with her colleagues before presenting it. (她在展示之前与同事讨论了这个项目。)
+
+571. **collect** [v.] 收集，聚集；[adj. & adv.] 对方付费
+   - He collects stamps as a hobby. (他的爱好是收集邮票。)
+   - The call is collect, so the charges will be on the recipient's bill. (这个电话是对方付费的，所以费用将计在接收人的账单上。)
+
+572. **collection** [n.] 收集，集合
+   - The museum has an impressive collection of modern art. (这家博物馆有一批令人印象深刻的现代艺术藏品。)
+   - She added the new novel to her book collection. (她将新小说加入她的书籍收藏。)
+
+573. **collective** [adj.] 集体的；[n.] 集体
+   - The workers made a collective decision to strike. (工人们集体决定罢工。)
+   - The collective opinion of the group was to proceed with the plan. (该团体的集体意见是继续执行计划。)
+
+574. **college** [n.] 学院，大学
+   - She is studying economics at college. (她在学院学习经济学。)
+   - After high school, he plans to go to college to study engineering. (高中毕业后，他计划去大学学习工程学。)

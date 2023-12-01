@@ -16,5 +16,4 @@ function printPetsData(startIndex, endIndex) {
 }
 
 // 假设我们想打印索引从2到5的宠物数据
-printPetsData( 625,675);
-
+printPetsData(676,726);
