@@ -2298,3 +2298,147 @@
 574. **college** [n.] 学院，大学
    - She is studying economics at college. (她在学院学习经济学。)
    - After high school, he plans to go to college to study engineering. (高中毕业后，他计划去大学学习工程学。)
+
+575. **colonel** [n.] 陆军上校，中校
+   - The colonel issued orders to his troops with a firm voice. (上校用坚定的声音向他的部队发布命令。)
+   - Despite his young age, he was promoted to the rank of colonel. (尽管年轻，他被提升为上校军衔。)
+
+576. **colony** [n.] 侨民，殖民地，侨居地，聚居地
+   - The British colony of Hong Kong was returned to China in 1997. (英国的香港殖民地在1997年回归中国。)
+   - Scientists are studying the behavior of ant colonies. (科学家们正在研究蚂蚁群体的行为。)
+
+577. **color** [n.] 颜色，彩色，颜料，气色，风格；[vt.] 把...涂颜色，粉饰；[vi.] 脸红
+   - She likes to wear clothes with bright colors. (她喜欢穿鲜艳的颜色衣服。)
+   - The artist used only three colors to paint the sunset. (艺术家只用了三种颜色来画日落。)
+
+578. **column** [n.] 柱，支柱，圆柱，柱形物，专栏，[计算机]列
+   - The ancient Greeks were known for their marble columns. (古希腊人以他们的大理石柱而闻名。)
+   - She writes a weekly column in the local newspaper. (她在当地报纸上写一个每周专栏。)
+
+579. **comb** [n.] 梳子；[vt.] 梳理
+   - He used a comb to straighten his hair. (他用梳子梳直了头发。)
+   - The mother bird combs through her feathers with her beak. (母鸟用喙梳理她的羽毛。)
+
+580. **combination** [n.] 结合，联合，化合，联合体
+   - The combination of sweet and salty flavors can be delicious. (甜味和咸味的结合可能非常美味。)
+   - It took him several tries to remember the combination to his locker. (他试了好几次才记起他的储物柜密码。)
+
+581. **combine** [vt.] 使结合，兼有，融合，联结，收割，混合谷物；[vi.] 结合，联合；[n.] 集团，联合收割机
+   - Combine the flour and sugar before adding the eggs. (在加入鸡蛋之前先把面粉和糖混合起来。)
+   - Farmers use combines to harvest their crops. (农民使用联合收割机来收割庄稼。)
+
+582. **come** [vi.] 来，来到，达到，出现，发生，进入；[vt.] 接近，扮演
+   - Please come to my office as soon as you can. (请尽快来我的办公室。)
+   - Winter has come, and the lake has frozen over. (冬天来了，湖面已经结冰。)
+
+583. **comfort** [n.] 舒适，安慰，安慰者；[vt.] 安慰
+   - Her kind words gave me a lot of comfort. (她的话给了我很大的安慰。)
+   - He comforted his friend who was upset about losing her job. (他安慰他因失业而烦恼的朋友。)
+
+584. **comfortable** [adj.] 舒适的，安慰的，充裕的
+   - This chair is very comfortable to sit in. (这把椅子坐起来非常舒服。)
+   - They live a comfortable life with no financial worries. (他们过着没有财务担忧的舒适生活。)
+
+585. **command** [vt.] 命令，指挥，控制，支配；[n.] 命令，指挥，控制；[计算机] DOS命令：引用辅助命令处理器
+   - The general commanded his troops to advance. (将军命令他的部队前进。)
+   - She has a good command of the Spanish language. (她精通西班牙语。)
+
+586. **commander** [n.] 司令官，指挥员
+   - The commander of the naval fleet was respected by all the sailors. (海军舰队的指挥官受到所有水手的尊敬。)
+   - As a commander, he was responsible for many critical decisions during the mission. (作为指挥官，他在任务中负责许多关键决策。)
+
+587. **comment** [n.] 评论，意见，注释，闲话；[v.] 注释，评论
+   - The director refused to comment on the rumors about the new film. (导演拒绝对有关新电影的传言发表评论。)
+   - Her political comments sparked a lot of discussion on social media. (她的政治评论在社交媒体上引发了很多讨论。)
+
+588. **commerce** [n.] 商业，贸易，社交
+   - The city's economy depends heavily on international commerce. (这个城市的经济严重依赖于国际贸易。)
+   - The invention of the internet has changed the face of commerce forever. (互联网的发明永远改变了商业的面貌。)
+
+589. **commercial** [adj.] 商业的，商品化的；[n.] 商业广告
+   - The commercial interests of the company are very diverse. (公司的商业利益非常多样化。)
+   - That commercial for the new car model is really catchy. (那个新车型的商业广告真的很吸引人。)
+
+590. **commit** [vt.] 犯(错误)，干(坏事)
+   - He was sent to prison because he committed a serious crime. (他因犯了严重的罪行而被送进监狱。)
+   - It's important to admit when you commit a mistake. (承认你犯错误是很重要的。)
+
+591. **committee** [n.] 委员会，全体委员
+   - The decision was made by the executive committee. (决定是由执行委员会做出的。)
+   - She has been appointed to serve on the school's development committee. (她被任命为学校发展委员会的成员。)
+
+592. **communicate** [vi.] 通讯，传达，传播；[vt.] 交流，沟通，联通
+   - Good leaders know how to communicate effectively with their team. (优秀的领导者知道如何与团队有效沟通。)
+   - The internet has made it easier to communicate with people all over the world. (互联网让与全世界的人交流变得更容易。)
+
+593. **communism** [n.] 共产主义
+   - Communism advocates for the elimination of private property. (共产主义主张消除私有财产。)
+   - He studied the history of communism in college. (他在大学学习了共产主义历史。)
+
+594. **communist** [n.] 共产党员，共产主义者；[adj.] 共产主义的
+   - The communist manifesto was written by Karl Marx and Friedrich Engels. (《共产党宣言》是由卡尔·马克思和弗里德里希·恩格斯编写的。)
+   - He was a communist who believed in the principles of Marxism. (他是一个信仰马克思主义原则的共产党员。)
+
+595. **community** [n.] 社区，团体，社会，公社，群落(生)
+   - The local community center offers classes and activities for residents. (当地社区中心为居民提供课程和活动。)
+   - There is a strong sense of community in our neighborhood. (我们邻里之间有很强的社区意识。)
+
+596. **companion** [n.] 同伴，同事，共事者，伴侣；成对物品之一；(船的)甲板间扶梯(或扶梯的顶篷)；[vt. & vi.] 陪伴
+   - He was a faithful companion to me during my travels. (在我的旅途中，他是我的忠实伴侣。)
+   - The book is a companion to the television series. (这本书是电视系列节目的伴侣读物。)
+
+597. **company** [n.] 公司，商号，同伴，客人，一群，连队；[vt.] 陪伴；[vi.] 联合
+   - She works for a company that specializes in web design. (她在一家专门从事网页设计的公司工作。)
+   - Having good company can make a long journey seem shorter. (有好的伴侣可以使长途旅行显得更短。)
+
+598. **comparative** [adj.] 比较的，相对的；[n.] 对手
+   - In comparative literature, one studies the differences and similarities between texts from different cultures. (在比较文学中，研究不同文化的文本之间的差异和相似之处。)
+   - His performance was quite good in a comparative sense. (从比较的角度来看，他的表现相当好。)
+
+599. **compare** [vt. & vi.] 比较，对照，比作，比喻；[n.] 比较，对照
+   - Compare the prices before you make a purchase. (购买前比较价格。)
+   - Shakespeare compared his love to a summer's day. (莎士比亚将他的爱人比作夏日。)
+
+600. **compass** [n.] 罗盘，指南针，圆规；[vt.] 图谋，包围，达成
+   - A compass is an essential tool for navigation. (罗盘是导航的必备工具。)
+   - They compassed their goal despite all the obstacles. (尽管有所有的障碍，他们还是实现了他们的目标。)
+
+601. **compel** [vt.] 强迫，迫使屈服
+   - The court can compel a witness to testify. (法庭可以强迫证人作证。)
+   - Financial circumstances compelled him to take on two jobs. (财务状况迫使他同时做两份工作。)
+
+602. **competent** [adj.] 有能力的，胜任的，足够的，应该做的
+   - She is very competent at her job. (她的工作能力非常强。)
+   - You need to be competent in English to work in international relations. (从事国际关系工作需要英语能力强。)
+
+603. **competition** [n.] 竞争，比赛
+   - The competition for the job was fierce. (这份工作的竞争非常激烈。)
+   - He won first place in the piano competition. (他在钢琴比赛中获得了第一名。)
+
+604. **complaint** [n.] 抱怨，怨言，控告
+   - The company has received several complaints about poor customer service. (公司收到了几起关于糟糕客户服务的投诉。)
+   - She went to the doctor with a complaint of chest pains. (她因胸痛去看医生。)
+
+605. **complete** [adj.] 完整的，完成的，彻底的；[vt.] 完成，使圆满，使完美
+   - The puzzle is complete when every piece is in its place. (当每个拼图块都到位时，拼图就完成了。)
+   - He completed the marathon in under four hours. (他在不到四小时的时间内完成了马拉松赛跑。)
+
+606. **complex** [adj.] 结合的，复杂的；[n.] 复合体
+   - The human brain is an incredibly complex organ. (人类的大脑是一个极其复杂的器官。)
+   - The apartment complex has over 200 units. (这个公寓综合体有200多个单元。)
+
+607. **complicate** [vt.] 使复杂，使陷入，使错综，使起纠纷
+   - His late arrival complicated the meeting schedule. (他的迟到使会议日程变得复杂。)
+   - Adding more rules might complicate the game instead of making it better. (增加更多规则可能会使游戏变得复杂，而不是变得更好。)
+
+608. **compose** [vt.] 组成，构成，创作，写作，作曲，使镇静；[vi.] 创作
+   - Water is composed of hydrogen and oxygen. (水是由氢和氧组成的。)
+   - She composed a beautiful poem about nature. (她创作了一首关于自然的美丽诗歌。)
+
+609. **compound** [n.] 化合物，混合物，复合词；[adj.] 复(混)合的，合成的；[vt.] 混合调合，妥协；[vi.] 混合，妥协
+   - Water is a compound made from two hydrogen atoms and one oxygen atom. (水是由两个氢原子和一个氧原子组成的化合物。)
+   - The situation was compounded by the arrival of more guests. (更多客人的到来使情况变得更加复杂。)
+
+610. **comprehension** [n.] 理解，理解力，领悟
+   - Reading comprehension is an important skill for academic success. (阅读理解是学术成功的一个重要技能。)
+   - The teacher tested the students' comprehension of the material. (老师测试了学生对材料的理解。)
